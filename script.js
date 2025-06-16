@@ -74,5 +74,4 @@ nextButton.addEventListener('click', () => {
   }
 });
 
-// Initialize the first question
 generateQuestion();
